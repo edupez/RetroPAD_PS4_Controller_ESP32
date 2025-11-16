@@ -11,8 +11,8 @@ The software reads all relevant PS4 controller inputs, including buttons, D-Pad,
 
 In summary, this project combines modern Bluetooth technology, the Bluepad32 library, and classic controller communication standards into one unified interface that brings retro gaming back to life with modern comfort and reliability.
 
-<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/c3.png" width="400"></a></p>
+<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/c3.jpg" width="400"></a></p>
 
-<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/c5.png" width="400"></a></p>
+<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/c5.jpg" width="400"></a></p>
 
-<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/c6.png" width="400"></a></p>
+<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/c6.jpg" width="400"></a></p>
