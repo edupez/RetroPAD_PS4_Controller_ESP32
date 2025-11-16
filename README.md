@@ -5,7 +5,7 @@
 This project is an interface designed to connect a modern PlayStation 4 (PS4) controller to old gaming consoles and vintage computers that use different types of physical control ports.
 Its main objective is to bridge the technological gap between modern Bluetooth controllers and legacy systems that were originally designed for simple wired digital inputs. By converting PS4 controller commands into hardware signals that are compatible with classic devices, this interface allows players to use modern, ergonomic controllers without modifying or altering the original equipment.
 
-<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/c1.JPG" width="200"></a></p>
+<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/C1.JPG" width="400"></a></p>
 
 To handle wireless communication and controller input decoding, the project uses the Bluepad32 library, developed by Retro.Moe. This library enables high-performance Bluetooth controller support on embedded hardware, simplifying the integration between modern gamepads and custom electronic interfaces.
 
